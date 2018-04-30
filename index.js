@@ -12,10 +12,8 @@ function add2(n) {
   return n + parseInt('2', 10)
 }
 
-function funkyFunction(){
-  var Fk = function(){
-  return Fk
-  }
+var funkyFunction = function(){
+  return function 
 }
 
 
