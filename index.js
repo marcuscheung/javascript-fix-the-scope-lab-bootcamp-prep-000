@@ -9,7 +9,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  return n + parseInt('2', 10))
+  return n + parseInt('2', 10)
 }
 
 var funkyFunction = function() {
